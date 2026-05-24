@@ -28,9 +28,14 @@ I'm on a coding journey and passionate about:
 
 You'll find my learning projects and practice code here. Feel free to check them out and give feedback—I'm always open to learning!
 
+## 🌐 My Website
+
+Check out my project **Literaconite** here: [https://emrecankoc6.github.io/Literaconite/](https://emrecankoc6.github.io/Literaconite/)
+
 ## 📫 Let's Connect
 
 - **GitHub**: [@emrecankoc6](https://github.com/emrecankoc6)
+- **Website**: [Literaconite](https://emrecankoc6.github.io/Literaconite/)
 - Feel free to reach out if you'd like to chat, collaborate, or share learning tips!
 
 ---
